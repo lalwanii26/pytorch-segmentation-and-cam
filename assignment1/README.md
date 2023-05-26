@@ -1,4 +1,4 @@
-# ECE 285 Assignment 1
+# Assignment 1
 
 ## Overview
 
