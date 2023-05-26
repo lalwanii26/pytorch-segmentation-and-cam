@@ -1,4 +1,4 @@
-# assignment2
+# Assignment 2: Convolutional Neural Networks with Pytorch
 
 This notebook has 5 parts. We will learn PyTorch on **three different levels of abstraction**
 
